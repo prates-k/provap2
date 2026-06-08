@@ -14,8 +14,3 @@ O projeto consiste em uma API Rest para gerenciamento e controle de estoque de p
 * Docker (Containerização completa da aplicação)
 * Git & GitHub (Controle de versão e hospedagem do código)
 * Thunder Client / Postman (Validação dos endpoints)
-
-## 🧪 Testes Automatizados
-A API conta com testes integrados para validar a integridade das operações do CRUD. Para rodar os testes localmente no ambiente de desenvolvimento, execute:
-```bash
-python manage.py test
